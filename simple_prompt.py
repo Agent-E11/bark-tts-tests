@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from bark import SAMPLE_RATE, generate_audio, preload_models
 from scipy.io import wavfile
 
